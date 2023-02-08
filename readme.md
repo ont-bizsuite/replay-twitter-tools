@@ -6,13 +6,13 @@
 
 
 
-![alt google](/Users/slipperyghost/Desktop/Tools/img/4551675820278_.pic.jpg)
+![alt google](./img/4551675820278_.pic.jpg)
 
 点击 插件右上角`+`号后会打开新页面，把文件夹中`replyTwitter.js`文件内容复制粘贴到这个新页面中
 
 
 
-![](/Users/slipperyghost/Desktop/Tools/img/4561675820850_.pic.jpg)
+![](./img/4561675820850_.pic.jpg)
 
 可替换后面`twmplate text`为需要回推内容
 
